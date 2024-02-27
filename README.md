@@ -8,7 +8,7 @@ Web Developer
 I am a Web Developer who loves JavaScript technologies!
 
 * 🌍  I am based in the United States of America.
-* 🖥️  See my portfolio at [my portfolio](http://annielvallevalera.netlify.app/).
+* 🖥️  See my portfolio at [my portfolio](http://annielvalle96.netlify.app/).
 * ✉️  You can contact me at [my email](mailto:annielvallevalera96@gmail.com).
 * ⚡  Fun fact: my favorite hobby is programming and watching action movies 😎.
 
@@ -23,35 +23,35 @@ I am a Web Developer who loves JavaScript technologies!
 ### Socials
 
 <p align="left">
-  <!-- <a href="https://www.facebook.com/thetwin1996" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.facebook.com/annielvalle96" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
     </picture> 
   </a> -->
-  <a href="https://www.github.com/thetwin1996" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/annielvalle96" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="http://www.instagram.com/thetwin1996/" target="_blank" rel="noreferrer">
+  <a href="http://www.instagram.com/annielvalle96/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://www.linkedin.com/in/thetwin1996/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/annielvalle96/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
-  <!-- <a href="https://www.x.com/thetwin1996" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.x.com/annielvalle96" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
