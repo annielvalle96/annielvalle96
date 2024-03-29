@@ -5,6 +5,20 @@ Hi! My name is Anniel Valle Valera
 Web Developer
 -------------
 
+👋 Hello! My name is Anniel Valle Valera. I am a Software Engineer and Web Developer.
+
+I am a Software Engineer capable of creating complete web applications from scratch. I am passionate about creating resilient, scalable, and maintainable software. I am passionate about improving user experiences, both internal and external. My interest in web development began in 2015, when I began my studies as a Software Engineer at the Central University “Marta Abreu” de Las Villas, Cuba; a career that sparked my interest in creating computer applications. Then I became much more interested in web programming because I find it a fascinating world, and it has a great impact on our lives.
+
+I have studied application development technologies such as:
+• Programming Languages: Java, JavaScript, HTML, CSS, Python, SQL, PHP.
+• Libraries & Frameworks: React, Node, Express, Django, Vue, Symfony.
+• Tools & Platforms: Git, GitHub, GitLab, Netlify, Vercel, MongoDB, PostgreSQL, Docker, Figma, Postman, Thunder Client.
+• Project Management Methodology: Scrum.
+
+My goal is to develop my career as a Professional Web Developer, being part of a company that allows me to apply everything I have learned so far and continue growing both personally and professionally to achieve the greatest possible results.
+
+If you want to know more about me, you can connect with me on LinkedIn or email me: annielvallevalera96@gmail.com
+
 I am a Web Developer who loves JavaScript technologies!
 
 * 🌍  I am based in the United States of America.
