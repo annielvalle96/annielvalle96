@@ -1,13 +1,11 @@
 <!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anniel Valle Valera -->
-Hi! My name is Anniel Valle Valera
+👋 Hello! My name is Anniel Valle Valera. I am a Software Engineer and Web Developer.
 ===================================
 
 Web Developer
 -------------
 
 ### About me
-👋 Hello! My name is Anniel Valle Valera. I am a Software Engineer and Web Developer.
-
 I am a Software Engineer capable of creating complete web applications from scratch. I am passionate about creating resilient, scalable, and maintainable software. I am passionate about improving user experiences, both internal and external. My interest in web development began in 2015, when I began my studies as a Software Engineer at the Central University “Marta Abreu” de Las Villas, Cuba; a career that sparked my interest in creating computer applications. Then I became much more interested in web programming because I find it a fascinating world, and it has a great impact on our lives.
 
 * 🌍  I am based in the United States of America.
