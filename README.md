@@ -8,7 +8,7 @@ Web Developer
 ### About me
 I am a Web Developer capable of creating complete web applications from scratch. I am passionate about creating resilient, scalable, and maintainable software. I am passionate about improving user experiences, both internal and external. My interest in web development began in 2015, when I began my studies as a Software Engineer at the Central University “Marta Abreu” de Las Villas, Cuba; a career that sparked my interest in creating computer applications. Then I became much more interested in web programming because I find it a fascinating world, and it has a great impact on our lives.
 
-* 🌍  I am based in the United States of America.
+* 🌍  I am based in the United States.
 * 🖥️  See my portfolio at [my portfolio](http://annielvalle96.netlify.app/).
 * ✉️  You can contact me at [my email](mailto:annielvallevalera96@gmail.com).
 * 🔗  You can contact me at [my LinkedIn](https://www.linkedin.com/in/annielvalle96/).
